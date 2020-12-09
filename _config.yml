@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-
+url: "mechetle.ml"
 gems:
   - jekyll-redirect-from
